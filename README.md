@@ -1,5 +1,5 @@
 
-# Clase de Git 
+# Resumen de los comando de Git
 
 A brief description of what this project does and who it's for
 
@@ -21,3 +21,9 @@ A brief description of what this project does and who it's for
  git push //subir cambios 
 ```
   
+  - Para bajr cambios 
+
+```bash
+git pull
+```
+
