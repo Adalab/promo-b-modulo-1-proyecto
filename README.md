@@ -1,5 +1,5 @@
 
-# Clase de Git 
+# Clase de Git de la Promo B de Part Time
 
 A brief description of what this project does and who it's for
 
