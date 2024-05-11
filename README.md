@@ -14,5 +14,10 @@ A brief description of what this project does and who it's for
   ```
 
 - Para subir los cambios a Github
-  
+
+```bash
+ git add -A // añadir cambios
+ git commit -m "mensaje" // poner mensaje
+ git push //subir cambios 
+```
   
